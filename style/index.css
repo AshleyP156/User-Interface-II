@@ -1,11 +1,32 @@
     /* Add CSS styling here */
     
+    html {
+        font-size: 62.5%;
+    }
+    
+    * {
+        background-color: rosybrown;
+    }
+    
     h1 {
-        color: whitesmoke;
-        background-color: rebeccapurple;
+        color: black;
+        display: flex;
+        justify-content: left;
     }
     
     .Navigation {
-        color: whitesmoke;
-        background-color: rebeccapurple;
+        color: darkviolet;
+        display: flex;
+        justify-content: right;
     }
+    
+    .bottomcontainer {
+        background-color: lightpink;
+        color: darkviolet;
+        display: flex;
+        justify-content: center;
+    }
+    
+    @media(max-width: 800px) {}
+    
+    @media(max-width: 500px) {}

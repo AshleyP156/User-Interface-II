@@ -1,0 +1,24 @@
+html {
+    font-size: 62.5%;
+}
+
+* {
+    background-color: rosybrown;
+}
+
+h1 {
+    color: black;
+    display: flex;
+    justify-content: left;
+}
+
+.contact {
+    background-color: lightpink;
+    display: flexbox;
+    justify-content: space-evenly;
+    direction: flex;
+}
+
+@media(max-width:800px) {}
+
+@media(max-width:500px) {}
