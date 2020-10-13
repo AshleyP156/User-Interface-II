@@ -1,1 +1,11 @@
-/* Add CSS styling here */
+    /* Add CSS styling here */
+    
+    h1 {
+        color: whitesmoke;
+        background-color: rebeccapurple;
+    }
+    
+    .Navigation {
+        color: whitesmoke;
+        background-color: rebeccapurple;
+    }
